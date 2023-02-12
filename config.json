@@ -1,0 +1,9 @@
+{
+	"token": "MTA3NDQwMzk2MTY2ODM4NjkxNg.GWa1jf.m1p150sJ1NI-2FFXR14P3yD1NUWMGBB7U301O4",
+	"debug": { "enabled": false, "ids": [1046137044981776555] },
+	"roles": {
+		"whitelist": 1074403325249863732,
+		"blacklist": 1074403370196017293,
+		"perms": 1074403519127355574
+	}
+}
